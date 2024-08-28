@@ -1,0 +1,10 @@
+package main;
+
+public class JsonNode {
+
+	public boolean isArray() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

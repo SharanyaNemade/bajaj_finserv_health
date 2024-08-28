@@ -1,0 +1,28 @@
+package main;
+
+import java.util.Iterator;
+import java.util.Map.Entry;
+
+public class JsonNode {
+
+	public boolean isArray() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public Iterator<Entry<String, JsonNode>> fields() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public boolean isObject() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public String asText() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

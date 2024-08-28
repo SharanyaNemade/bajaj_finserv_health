@@ -1,0 +1,12 @@
+package main;
+
+import java.io.File;
+
+public class ObjectMapper {
+
+	public JsonNode readTree(File file) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
